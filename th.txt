@@ -1,0 +1,94 @@
+websites interactive
+form -> data validation
+
+
+type of dev
+    -> font-end 
+        -> html , css, js, Jquery, bootstrap
+
+    -> back-end
+        -> php, python, node.js, java, .net, c, c++
+
+
+c -> .c
+html -> .html
+js -> .js
+
+-----------------------------------------
+
+programming language
+    -> c , cpp, java 
+
+scripting language
+    -> js, python
+
+
+server side: 
+    -> java, cpp, c
+
+client side :
+    -> html, css, js
+
+
+------------------------------------
+
+js ----> link with html
+
+------------------------------------
+
+compilers :
+yes ?? babble --> 
+
+all browsers have js engine to run js code
+
+chrome -> v8
+safari -> webkit
+firefox -> spider monkey
+edge -> chakra
+brave -> ??
+
+--------------------------------
+howmany ways to write js code
+
+inline js
+internal js 
+external js
+
+--------------------------------------
+
+HTML page
+
+BOM -> Browser Object Model
+DOM -> Document Object Model
+
+
+---------------------------------------
+
+how to declare js variable
+
+var
+
+in var re declaration is possible
+in var re initialization is possible
+
+var name = "Jone";
+var name = "David";
+
+var age = 20;
+age = 25;     
+
+
+let 
+
+in let re declaration is not possible
+in let re initialization is possible
+
+let name = "Jone";
+let name = "David";  // error
+
+
+let age = 20;
+age = 25;
+
+
+const
