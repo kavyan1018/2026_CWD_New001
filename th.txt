@@ -92,3 +92,56 @@ age = 25;
 
 
 const
+
+
+--------------------------------
+
+
+oprators : 
+    -> arithmetic
+            -> addition
+            -> subtraction
+            -> Multiplication
+            -> division
+            -> modulus
+
+    -> assignment
+            -> < 
+            -> >
+            -> <=
+            -> >=
+            -> ==
+            -> !=
+            -> ===
+            -> !==
+            -> +=
+            -> -=
+            -> *=
+            -> /=
+            -> %=
+            -> **=
+            -> <<=
+            -> >>=
+            -> >>>=
+            -> &=
+            -> &&=
+            -> ??=
+
+    -> logical
+        -> &&
+        -> ||
+        -> !
+
+    -> bitwise
+        -> &    -> And 
+        -> |    -> Or
+        -> ^    -> XOR  -> 
+        -> ~    -> NOT
+
+    -> conditional  
+        -> ternary
+        -> if-else  
+
+----------------------------------------
+
+

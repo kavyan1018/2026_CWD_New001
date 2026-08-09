@@ -31,7 +31,19 @@ var b = prompt("Enter the second number:");
 */
 
 
-var sum = parseInt(a) + parseInt(b);
+// var sum = parseInt(a) + parseInt(b);
 
-document.write("<h1>" + a + " + " + b + "  =  " + sum + "</h1>");
+// document.write("<h1>" + a + " + " + b + "  =  " + sum + "</h1>");
 // document.write("<h1>" + sum + "</h1>");
+
+
+// Numbers
+
+// var sum = Number(a) + Number(b);
+// document.write(sum);
+
+
+// parseFloat() 
+
+var sum = parseFloat(a) + parseFloat(b);
+document.write("<h1>" + sum + "</h1>");
