@@ -106,37 +106,28 @@ oprators :
             -> modulus
 
     -> assignment
-            -> < 
-            -> >
-            -> <=
-            -> >=
-            -> ==
-            -> !=
-            -> ===
-            -> !==
-            -> +=
-            -> -=
-            -> *=
-            -> /=
-            -> %=
-            -> **=
-            -> <<=
+            -> <      -> less than
+            -> >       -> greater than
+            -> <=      -> less than or equal to
+            -> >=      -> greater than or equal to
+            -> ==      -> equal to
+            -> !=       -> not equal to
+            -> +=       -> a = a + 1  -> a+=   -> add and assign
+            -> -=       -> a = a - 1  -> a-=   -> subtract and assign
+            -> *=       -> a = a * 1  -> a*=   -> multiply and assign   
+            -> /=      -> a = a / 1  -> a/=   -> divide and assign
+            -> %=      -> a = a % 1  -> a%=   -> modulus and assign
+            -> ===     -> ==(values)     -> ===(value + data type)
+            -> !==     -> != (values)    -> !==(value + data type)
+            -> **=     -> 5 **= 2  -> 5 = 5 ** 2  -> 5 = 25
             -> >>=
-            -> >>>=
-            -> &=
-            -> &&=
-            -> ??=
+            -> <<=
 
     -> logical
         -> &&
         -> ||
         -> !
 
-    -> bitwise
-        -> &    -> And 
-        -> |    -> Or
-        -> ^    -> XOR  -> 
-        -> ~    -> NOT
 
     -> conditional  
         -> ternary
