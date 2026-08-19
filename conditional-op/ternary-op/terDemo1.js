@@ -1,21 +1,12 @@
 /*
 
-        if(cond){
-            // code 
-        }
-        else{
-            // code 
-        }
-
-
-
-        ternary: 
-
-            condition ? expression1 : expression2
-            condition ? True : False
+    ternary op
+    condition ? true : false
 */
 
+// u are adult or not
 
-let age = 10;
-let result = age >= 18 ? "Adult" : "Child";
-console.log(result);
+let a = 18;
+//        condition?   true        :   false      
+let res =  a >= 18 ? "u are adult" : "u are not adult";
+console.log(res);
