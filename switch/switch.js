@@ -1,6 +1,6 @@
 // weekdays print 
 
-let a = prompt(parseInt("Enter the Number to Display the Day :"))
+let a = prompt("Enter the Number to Display the Day :")
 
 switch (a) {
     case 1:
