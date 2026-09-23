@@ -1,0 +1,32 @@
+1. for loop
+    for(initialization; condition; increment/decrement) {
+        // code block to be executed
+    }
+
+2. while loop
+    let initialization;
+    while(condition) {
+        // code block to be executed
+        increment/decrement;
+    }
+
+3. do-while loop
+    let initialization;
+    do {
+        // code block to be executed
+        increment/decrement;
+    }while(condition);
+
+4. for of   -> Get values 
+let fruits = ["apple", "banana", "cherry"];
+
+
+5. for in    -> Get keys (index)
+let fruits = ["apple", "banana", "cherry"];
+
+let students = {
+    name: "John",
+    age: 30,
+    city: "New York"
+};
+key -> name , age , city
