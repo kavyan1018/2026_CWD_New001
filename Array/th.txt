@@ -1,0 +1,10 @@
+12th class
+    3
+
+
+std1 = Harsh
+std2 = Riya
+std3 = Ankit
+
+
+var var_name = ["std1", "std2", "std3"]
